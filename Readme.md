@@ -3,6 +3,11 @@ Alle links in de documenten verwijzen naar https://afsprakenstelsel.medmij.nl do
 
 De laaste schemas te vinden op: https://afsprakenstelsel.medmij.nl/display/PUBLIC/XML-schema%27s
 
+De voorbeelden voor XML's zijn te vinden hier:
+http://gids.samenbeter.org/openpgoexamples/oauthclientlist-voorbeeld-v1.0.xml
+http://gids.samenbeter.org/openpgoexamples/whitelist-voorbeeld-v1.0.xml
+http://gids.samenbeter.org/openpgoexamples/zorgaanbiederslijst-voorbeeld-v1.0.xml
+
 Coding standards
 
  - Directory structure:
