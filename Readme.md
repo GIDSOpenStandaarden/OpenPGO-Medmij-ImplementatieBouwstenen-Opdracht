@@ -10,7 +10,7 @@ Licentie waaronder je softwarecode ter beschikking stelt: AGPLv3. Zie: https://w
 Daarbij noem je de auteur, je organisatie als copyright owner volgens de best practice "managing centralized copyright notices" op deze pagina: http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
 </code>
 
-MedMij laaste Versie content:
+# MedMij laaste Versie content:
 De laaste schemas te vinden op: https://afsprakenstelsel.medmij.nl/display/PUBLIC/XML-schema%27s
 
 De voorbeelden voor XML's zijn te vinden hier (versie afhankelijk):
@@ -18,7 +18,7 @@ http://gids.samenbeter.org/openpgoexamples/oauthclientlist-voorbeeld-v1.0.xml
 http://gids.samenbeter.org/openpgoexamples/whitelist-voorbeeld-v1.0.xml
 http://gids.samenbeter.org/openpgoexamples/zorgaanbiederslijst-voorbeeld-v1.0.xml
 
-Coding standards
+# Coding standards
 
  - Directory structure:
 	/src/api/medmij/…
@@ -92,7 +92,7 @@ De OAuth Client en OAuth Authorization Server gebruiken voor al hun onderlinge v
 
  
 
-Functies van de MedMijTLSConnector Component:
+# Functies van de MedMijTLSConnector Component:
 
 1. Versleuteling
 Al het verkeer over het MedMij-netwerk is beveiligd met Transport Layer Security (TLS). In het bijzonder:
