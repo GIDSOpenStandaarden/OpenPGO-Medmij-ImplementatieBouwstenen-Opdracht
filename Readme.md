@@ -1,9 +1,17 @@
 De informatie komt vanuit de Publieke MedMij pagina: https://afsprakenstelsel.medmij.nl 
 Alle links in de documenten verwijzen naar https://afsprakenstelsel.medmij.nl documentatie set - ook met de nieuwste informatie.  
 
+LICENSE:
+Licentie waaronder je content ter beschikking stelt: Creative Commons Attribution Sharealike 4.0 International. Zie: https://creativecommons.org/licenses/by-sa/4.0/
+
+
+Licentie waaronder je softwarecode ter beschikking stelt: AGPLv3. Zie: https://www.gnu.org/licenses/agpl-3.0.en.html   
+Daarbij noem je de auteur, je organisatie als copyright owner volgens de best practice "managing centralized copyright notices" op deze pagina: http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
+
+MedMij laaste Versie content:
 De laaste schemas te vinden op: https://afsprakenstelsel.medmij.nl/display/PUBLIC/XML-schema%27s
 
-De voorbeelden voor XML's zijn te vinden hier:
+De voorbeelden voor XML's zijn te vinden hier (versie afhankelijk):
 http://gids.samenbeter.org/openpgoexamples/oauthclientlist-voorbeeld-v1.0.xml
 http://gids.samenbeter.org/openpgoexamples/whitelist-voorbeeld-v1.0.xml
 http://gids.samenbeter.org/openpgoexamples/zorgaanbiederslijst-voorbeeld-v1.0.xml
