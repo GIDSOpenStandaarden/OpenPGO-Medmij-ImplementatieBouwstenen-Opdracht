@@ -14,9 +14,14 @@ Daarbij noem je de auteur, je organisatie als copyright owner volgens de best pr
 De laaste schemas te vinden op: https://afsprakenstelsel.medmij.nl/display/PUBLIC/XML-schema%27s
 
 De voorbeelden voor XML's zijn te vinden hier (versie afhankelijk):
-http://gids.samenbeter.org/openpgoexamples/oauthclientlist-voorbeeld-v1.0.xml
-http://gids.samenbeter.org/openpgoexamples/whitelist-voorbeeld-v1.0.xml
-http://gids.samenbeter.org/openpgoexamples/zorgaanbiederslijst-voorbeeld-v1.0.xml
+http://gids.samenbeter.org/openpgoexamples/1.0/oauthclientlist-voorbeeld-v1.0.xml
+http://gids.samenbeter.org/openpgoexamples/1.0/whitelist-voorbeeld-v1.0.xml
+http://gids.samenbeter.org/openpgoexamples/1.0/zorgaanbiederslijst-voorbeeld-v1.0.xml
+
+De voorbeelden voor XML's zijn te vinden hier (versie afhankelijk):
+http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_OAuthclientlist_example.xml
+http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_Whitelist_example.xml
+http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_Zorgaanbiederslijst_example.xml
 
 # Coding standards
 
