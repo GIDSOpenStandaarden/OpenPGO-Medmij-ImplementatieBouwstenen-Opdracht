@@ -1,6 +1,10 @@
 De informatie komt vanuit de Publieke MedMij pagina: https://afsprakenstelsel.medmij.nl 
 Alle links in de documenten verwijzen naar https://afsprakenstelsel.medmij.nl documentatie set - ook met de nieuwste informatie.  
 
+# SUPPORT:
+
+Voor elke vraag of probleem een issue aanmaken in github op de pagina van de betreffende bouwsteen. Ter voorbeeld, als dit de python oath bouwsteen zou betreffen dan is de pagina voor issues deze: https://github.com/GidsOpenStandaarden/OpenPGO-Medmij-ImplementatieBouwstenen-Python-OAuth/issues Iedere bouwsteen heeft een eigen issue pagina. Een richtlijn voor hoe het issue te melden vind je hier: https://github.com/GidsOpenStandaarden/OpenPGO-Medmij-ImplementatieBouwstenen-Opdracht/blob/master/ISSUE_TEMPLATE.md
+
 # LICENSE:
 
 Licentie waaronder je content ter beschikking stelt: Creative Commons Attribution Sharealike 4.0 International. Zie: https://creativecommons.org/licenses/by-sa/4.0/
