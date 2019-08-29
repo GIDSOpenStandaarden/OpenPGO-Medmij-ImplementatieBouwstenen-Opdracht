@@ -17,15 +17,11 @@ Daarbij noem je de auteur, je organisatie als copyright owner volgens de best pr
 # MedMij laaste Versie content:
 De laaste schemas te vinden op: https://afsprakenstelsel.medmij.nl/display/PUBLIC/XML-schema%27s
 
-De voorbeelden voor XML's zijn te vinden hier (versie afhankelijk):
-http://gids.samenbeter.org/openpgoexamples/1.0/oauthclientlist-voorbeeld-v1.0.xml
-http://gids.samenbeter.org/openpgoexamples/1.0/whitelist-voorbeeld-v1.0.xml
-http://gids.samenbeter.org/openpgoexamples/1.0/zorgaanbiederslijst-voorbeeld-v1.0.xml
-
-De voorbeelden voor XML's zijn te vinden hier (versie afhankelijk):
-http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_OAuthclientlist_example.xml
-http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_Whitelist_example.xml
-http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_Zorgaanbiederslijst_example.xml
+De voorbeelden voor XML's zijn hier ook te vinden (Afsprakenset release 1.1.1):
+* [Zorgaanbiederslijst](https://afsprakenstelsel.medmij.nl/download/attachments/27787489/MedMij_Zorgaanbiederslijst_example.xml?version=1&modificationDate=1548321206460&api=v2)
+* [Whitelist](https://afsprakenstelsel.medmij.nl/download/attachments/27787489/MedMij_Whitelist_example.xml?version=1&modificationDate=1548321206455&api=v2)
+* [OAuthclientlist](https://afsprakenstelsel.medmij.nl/download/attachments/27787489/MedMij_OAuthclientlist_example.xml?version=1&modificationDate=1548321206457&api=v2)
+* [Gegevensdienstnamenlijst](https://afsprakenstelsel.medmij.nl/download/attachments/27787489/MedMij_Gegevensdienstnamenlijst_example.xml?version=1&modificationDate=1548321206452&api=v2)
 
 # Coding standards
 
