@@ -1,4 +1,7 @@
+# This repository has been archived
+Dear reader, The decision has been made to archive this repository. The reason is that the OpenPGO-Medmij-ImplementatieBouwstenen-NodeJS isn’t being used and has deferred maintenance including security vulnerabilities. If you desire to use this adapter, please contact GIDS: info@gidsopenstandaarden.org.
 De informatie komt vanuit de Publieke MedMij pagina: https://afsprakenstelsel.medmij.nl 
+
 Alle links in de documenten verwijzen naar https://afsprakenstelsel.medmij.nl documentatie set - ook met de nieuwste informatie.  
 
 # SUPPORT:
